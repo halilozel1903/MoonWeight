@@ -12,6 +12,7 @@
 		9F95994B20266067005AF882 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F95994920266067005AF882 /* Main.storyboard */; };
 		9F95994D20266067005AF882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F95994C20266067005AF882 /* Assets.xcassets */; };
 		9F95995020266067005AF882 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F95994E20266067005AF882 /* LaunchScreen.storyboard */; };
+		9F959958202662D2005AF882 /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F959957202662D2005AF882 /* moon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9F95994C20266067005AF882 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F95994F20266067005AF882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F95995120266067005AF882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F959957202662D2005AF882 /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		9F95994420266067005AF882 /* MoonWeight */ = {
 			isa = PBXGroup;
 			children = (
+				9F959957202662D2005AF882 /* moon.png */,
 				9F95994520266067005AF882 /* AppDelegate.swift */,
 				9F95994720266067005AF882 /* ViewController.swift */,
 				9F95994920266067005AF882 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F959958202662D2005AF882 /* moon.png in Resources */,
 				9F95995020266067005AF882 /* LaunchScreen.storyboard in Resources */,
 				9F95994D20266067005AF882 /* Assets.xcassets in Resources */,
 				9F95994B20266067005AF882 /* Main.storyboard in Resources */,

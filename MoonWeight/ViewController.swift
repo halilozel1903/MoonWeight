@@ -10,15 +10,23 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    
+    @IBOutlet weak var weightText: UITextField!
+    @IBOutlet weak var resultText: UILabel!
+    
+    
+    @IBAction func calculateWeightButton(_ sender: Any) {
+        
+        let weight=(Double(weightText.text!)!/6.0)
+        resultText.text = String(format: "%.2f", weight)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
 
 
 }
