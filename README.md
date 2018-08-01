@@ -1,4 +1,4 @@
-# Moon Weight
+# Moon Weight App
 
 ![Screenshot](world.jpg)
 
@@ -13,3 +13,12 @@ Ay'daki kütlemizi bulabilmek için normal kütleyi 6'ya bölerek buluyoruz. <br
 
 Uygulama image,button,textfield ve label gibi birçok farklı bileşen kullanılmıştır.<br>
 Kullanıcı kütlesini gerekli alana girip daha sonra hesapla tuşuna basınca Ay'daki kütlesini bulabilecek.
+
+<br>
+
+## Uygulamanın Demosu
+
+<img src="screen1.png" width="500" /> 
+
+Kullanıcı kilosunu girip Aydaki karşılığını görebilmektedir. Kullanıcının sadece 6 ya direkt bölünen bir kütleye
+sahip olduğunu düşünmek saçma olacağından değerleri double türünde tanımlayıp,işlemleri yaptık.
