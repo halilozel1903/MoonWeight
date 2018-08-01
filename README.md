@@ -22,3 +22,10 @@ Kullanıcı kütlesini gerekli alana girip daha sonra hesapla tuşuna basınca A
 
 Kullanıcı kilosunu girip Aydaki karşılığını görebilmektedir. Kullanıcının sadece 6 ya direkt bölünen bir kütleye
 sahip olduğunu düşünmek saçma olacağından değerleri double türünde tanımlayıp,işlemleri yaptık.
+
+
+## Uygulamanın Detaylı Açıklaması
+
+Uygulama ile ilgili bir blog yazısı yazdım. Aşağıdaki linkten yazıya ulaşabilirsiniz : 
+
+[Swift-4 ile iOS Uygulaması - Aydaki Ağırlığımız Ne Kadar ?](https://medium.com/@halilozel1903/swift-4-ile-ios-uygulamas%C4%B1-aydaki-k%C3%BCtlemiz-ne-kadar-73084561f838)
