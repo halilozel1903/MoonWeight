@@ -57,5 +57,12 @@ Kütle değerini alabilmek için Text Field tanımladık. Alınan değeri işlem
 ```
 
 Butona basılınca bir işlem yapılmasını istiyoruz. Kullanıcıdan alınan değer 6'ya bölünüp bir değişkene atandı.
-<br> Bu değeri ise kullanıcıya ekranda gösteriyoruz. Sonuc label'a bu değeri atadık.
+<br> Bu değeri ise kullanıcıya ekranda gösteriyoruz. Sonuc label'a bu değeri atadık. <br>
+
+
+## Sonuç
+
+Temel yapıları kullanarak Ay'daki ağırlığınızı bulan bir uygulama yaptık. <br>
+Sevdiklerinizle ağırlıklarınızı bulup eğlenci vakit geçirebilirsiniz. <br>
+Eksik ya da hatalı gördüğünüz kısımları belirtirseniz sevinirim. :smile:
 
