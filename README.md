@@ -2,7 +2,7 @@
 
 ![Screenshot](world.jpg)
 
-Aydaki Kütlemiz adlı uygulama Swift-4.2 ile geliştirilen bir iOS uygulamasıdır.
+Aydaki Kütlemiz adlı uygulama Swift-5 ile geliştirilen bir iOS uygulamasıdır.
 Kullanıcıdan kaç kilo olduğunu öğrenip Ay'da olsaydık kaç kiloya denk gelirdik onu hesaplayan bir uygulamadır.
 Ay'daki kütlemizi bulabilmek için normal kütleyi 6'ya bölerek buluyoruz. <br>
 
