@@ -4,13 +4,11 @@
 
 Our Mass in the Moon is an iOS application developed with Swift-5.5. It is an application that learns how many kilos the user weighs and calculates how many kilos we would have had if we were on the Moon. To find our mass on the Moon, we find the normal mass by dividing by 6. 
 
-
 ## App Design 👨🏻‍💻
 
 <img src="res1.png" width="400" /> 
 
 The application uses many different components such as image, button, textfield and label. The user will be able to find his mass on the Moon by entering his mass in the required field and then pressing the calculate button.
-
 
 ## App Demo 🎬
 
@@ -18,7 +16,6 @@ The application uses many different components such as image, button, textfield 
 
 The user can enter his weight and see the monthly equivalent. The user only has a mass that is directly divisible by 6
 Since it would be absurd to think that it has, we defined the values as double and performed the operations.
-
 
 ## Detailed Description of the Application 👀
 
@@ -28,7 +25,6 @@ I wrote a blog post about the app. You can access the article from the link belo
 
 
 ## Explanation of Application Codes 🔎
-
 
 ```swift 
  @IBOutlet weak var kutleText: UITextField!
